@@ -1,5 +1,8 @@
 # Adding Magento 2 cronjob's code to NewRelic
 
+Adding Magento 2 cronjob's jobcode to NewRelic application.
+
+
 ## By me a coffee:
 - https://patreon.com/solutiontutorials
 - https://paypal.me/hidrole
