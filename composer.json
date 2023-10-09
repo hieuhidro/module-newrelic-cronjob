@@ -1,0 +1,27 @@
+{
+    "name": "hidro/module-newrelic-cronjob",
+    "version": "1.0.0",
+    "description": "Adding NewRelic transaction name to Magento 2 cronjob",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "email": "info@solutiontutorials.com",
+            "name": "Hieu Le"
+        }
+    ],
+    "require": {
+        "magento/framework": "*",
+        "magento/module-cron": "100.3.*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Hidro\\NewrelicCronjob\\": ""
+        }
+    }
+}
