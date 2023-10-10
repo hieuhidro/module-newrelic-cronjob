@@ -1,6 +1,6 @@
 {
     "name": "hidro/module-newrelic-cronjob",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Adding Magento 2 cronjob's jobcode as NewRelic transaction name",
     "type": "magento2-module",
     "license": "GPL-3.0",
